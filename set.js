@@ -1,4 +1,4 @@
-global.prefix = '.'; // Set Your Preferred Prefix
+global.prefix = '/'; // Set Your Preferred Prefix
 global.botName = 'ROLEEN V1'; // Bot Name
 global.botVersion = '1.0.0';
 global.botPic = '../img/1.png'; // Can use path, can also use link
