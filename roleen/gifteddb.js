@@ -4,7 +4,7 @@ const path = require('path');
 
 class GiftedTechDB {
 	giftedData = {}
-	giftedFile = path.join(process.cwd(), 'gift', 'gifted-db.json');
+	giftedFile = path.join(process.cwd(), 'roleen', 'gifted-db.json');
 	
 	giftedRead = async () => {
 		let giftedKenya;
